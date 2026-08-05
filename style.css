@@ -1,16 +1,21 @@
 body{
-    beckground-color: #421EFF;
-    color: #FFFFFF;
+    background-color: #421EFF;
+    color: #b3dacd;
+    font-family: arial, sans-serif;
 }
-main{
-    beckground-color: #0A4FA6;  
+header{
+    background-color: #0A4FA6;  
     color: #D1FFFD;
+    text-align:center;
+    padding:30px;
 }
-section{
-beckgrond:
-color:
+h1{
+    font-size:36px;
 }
-footer{
-beckgrond:
-color:
+h2{
+    color:#ffffff
+}
+p{
+    font-size:18px;
+    line-height:1.6;
 }
