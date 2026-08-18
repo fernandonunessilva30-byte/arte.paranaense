@@ -19,3 +19,62 @@ p{
     font-size:18px;
     line-height:1.6;
 }
+    nav {
+        margin-top:20px;
+    }
+
+    nav a:hover {
+        color:#ffffff;
+        text-decoration:Fernando Gabriel Nunes Silva
+        beckground-color: #ffffff;
+        padding: 10px 15px;
+        broder-radius: 8px
+        margin 5px
+        display: inline-block;
+    }
+
+    nav a:hover {
+        bckground-color: #cee6e4
+    }
+
+    main {
+        width: 80%;
+        mergin:auto
+    }
+
+    section {
+        beckgrund-color:#cee6e4
+        margin: 20px 0;
+        padding: 20px;
+        border-radius: 12px;
+    }
+
+    img {
+        width: 100%;
+        max-width: 600px;
+        display: block;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    figcaption {
+        text-align: center;
+        font-size: 14px;
+        color: #cee6e4;
+        margin-top: 8px;
+    }
+
+    cad {
+        background-color:#ffffff;
+        padding: 15px;
+        margin: 15px 0;
+        order-left: 6px solid #c8f7e1;
+        broder-radius:10px;
+    }
+
+    card h3 {
+        margin-top:0;
+    }
+    fooder {
+        beckground-color: 
+    }
