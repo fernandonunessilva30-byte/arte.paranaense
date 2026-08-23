@@ -2,6 +2,7 @@ body{
     background-color: #421EFF;
     color: #b3dacd;
     font-family: arial, sans-serif;
+    margin: 0;
 }
 header{
     background-color: #0A4FA6;  
@@ -64,7 +65,7 @@ p{
         margin-top: 8px;
     }
 
-    cad {
+    card {
         background-color:#ffffff;
         padding: 15px;
         margin: 15px 0;
@@ -75,6 +76,10 @@ p{
     card h3 {
         margin-top:0;
     }
-    fooder {
-        beckground-color: 
+    footer {
+        beckground-color: #c8f7e1;
+        color:#35d7ff;
+        text-aling:center;
+        padding: 20px;
+        margin-top: 30px;
     }
