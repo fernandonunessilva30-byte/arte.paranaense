@@ -14,37 +14,37 @@ h1{
     font-size:36px;
 }
 h2{
-    color:#ffffff
+    color:#ffffff;
 }
 p{
     font-size:18px;
     line-height:1.6;
 }
-    nav {
+nav {
         margin-top:20px;
     }
 
-    nav a:hover {
+    nav a {
         color:#ffffff;
-        text-decoration:Fernando Gabriel Nunes Silva
-        beckground-color: #ffffff;
+        text-decoration: none;
+        background-color: #ffffff;
         padding: 10px 15px;
-        broder-radius: 8px
-        margin 5px
+        border-radius: 8px;
+        margin: 5px;
         display: inline-block;
     }
 
     nav a:hover {
-        bckground-color: #cee6e4
+        background-color: #cee6e4;
     }
 
     main {
         width: 80%;
-        mergin:auto
+        margin:auto;
     }
 
     section {
-        beckgrund-color:#cee6e4
+        background-color:#cee6e4;
         margin: 20px 0;
         padding: 20px;
         border-radius: 12px;
@@ -65,21 +65,21 @@ p{
         margin-top: 8px;
     }
 
-    card {
+    .card {
         background-color:#ffffff;
         padding: 15px;
         margin: 15px 0;
-        order-left: 6px solid #c8f7e1;
-        broder-radius:10px;
+        border-left: 6px solid #c8f7e1;
+        border-radius:10px;
     }
 
-    card h3 {
-        margin-top:0;
+    .card h3 {
+        margin-top: 0;
     }
     footer {
-        beckground-color: #c8f7e1;
+        background-color: #c8f7e1;
         color:#35d7ff;
-        text-aling:center;
+        text-align: center;
         padding: 20px;
         margin-top: 30px;
     }
