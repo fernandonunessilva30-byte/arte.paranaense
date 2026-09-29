@@ -95,3 +95,9 @@ nav {
     button:hover{
         background-color:#fc0037;
     }
+
+    .curtir {
+        display: plock;
+        width: fit-content;
+        margin: 20px auto;
+    }
