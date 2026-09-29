@@ -85,7 +85,7 @@ nav {
     }
     button{
         background-color:#fc0000;
-        color:#ff2600a1;
+        color:#fd0054a1;
         border: none;
         padding: 10px 15px;
         border-radius: 8px;
@@ -93,5 +93,5 @@ nav {
     }
 
     button:hover{
-        background-color:#fc0037b9;
+        background-color:#fc0037;
     }
