@@ -15,3 +15,11 @@ function curtir(){
 
 }
 });
+
+
+
+const btnTema = document.querySelector(".bnt-tema");
+bntTema.addEventListener("click", mudarTema);
+function mudarTema(){
+    document.body.classList.toggle("tema-escuro");
+}
